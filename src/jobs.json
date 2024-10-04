@@ -1,0 +1,214 @@
+{
+  "jobs": [
+    {
+      "id": "1",
+      "title": "Senior React Developer",
+      "type": "Full-Time",
+      "location": "Bangalore, India",
+      "description": "We are looking for a Senior React Developer to design and implement responsive web applications. Key responsibilities include collaborating with designers and back-end developers, developing maintainable code, conducting code reviews, and staying updated on industry trends. Candidates should be proficient in HTML, CSS, JavaScript, and React, with experience in state management libraries and RESTful APIs. A Bachelor’s degree and 3+ years of front-end development experience are preferred. We offer a competitive salary, professional growth opportunities, and flexible work options. If you’re passionate about building high-quality user interfaces, we want to hear from you!",
+      "salary": "₹57,400 - ₹65,600",
+      "company": {
+        "name": "NewTek Solutions",
+        "description": "NewTek Solutions is a leading technology company specializing in web development and digital solutions. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "contact@teksolutions.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "2",
+      "title": "Front-End Engineer (React & Redux)",
+      "type": "Full-Time",
+      "location": "Mumbai, India",
+      "description": "Join our team as a Front-End Engineer in vibrant Mumbai, India. We are looking for a motivated individual with a passion for crafting beautiful and responsive web applications. You should have experience with React and Redux, along with a strong understanding of UI/UX design principles and a keen attention to detail. Your role will involve creating engaging interfaces and optimizing application performance.",
+      "salary": "₹57,400 - ₹65,600",
+      "company": {
+        "name": "Veneer Solutions",
+        "description": "Veneer Solutions is a creative agency specializing in digital design and development. Our team is dedicated to pushing the boundaries of creativity and innovation to deliver exceptional results for our clients.",
+        "contactEmail": "contact@loremipsum.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "3",
+      "title": "React.js Developer",
+      "type": "Full-Time",
+      "location": "Delhi, India",
+      "description": "Are you passionate about front-end development? Join our team in Delhi, India, where you'll work on exciting projects that significantly impact our users. We offer competitive compensation and a collaborative work environment where your ideas are valued. You will be responsible for developing user-facing features and optimizing components for maximum performance across various web-capable devices.",
+      "salary": "₹57,400 - ₹65,600",
+      "company": {
+        "name": "Dolor Cloud",
+        "description": "Dolor Cloud is a leading technology company specializing in digital solutions for businesses of all sizes. With a focus on innovation and customer satisfaction, we are committed to delivering cutting-edge products and services.",
+        "contactEmail": "contact@dolorsitamet.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "4",
+      "title": "React Front-End Developer",
+      "type": "Part-Time",
+      "description": "Join our team as a Part-Time Front-End Developer in beautiful Pune, India. We are looking for a self-motivated individual with a passion for creating engaging user experiences. This position offers flexible hours and the opportunity to work remotely, allowing you to balance work and personal life effectively. You will work on maintaining and improving existing projects while contributing to new initiatives.",
+      "location": "Pune, India",
+      "salary": "₹49,200 - ₹57,400",
+      "company": {
+        "name": "Alpha Elite",
+        "description": "Alpha Elite is a dynamic startup specializing in digital marketing and web development. We are committed to fostering a diverse and inclusive workplace where creativity and innovation thrive.",
+        "contactEmail": "contact@adipisicingelit.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "5",
+      "title": "React Native Developer",
+      "type": "Full-Time",
+      "description": "Join our team as a React Native Developer in beautiful Chennai, India. We are looking for a skilled and enthusiastic individual to help us create innovative mobile solutions. You will be involved in all aspects of mobile app development, from conception to deployment, working closely with designers and other developers to deliver high-quality products. Competitive salary and great benefits package available.",
+      "location": "Chennai, India",
+      "salary": "₹82,000 - ₹90,000",
+      "company": {
+        "name": "Port Solutions INC",
+        "description": "Port Solutions is a leading technology company specializing in software development and digital marketing. We are committed to providing our clients with cutting-edge solutions and our employees with a supportive and rewarding work environment.",
+        "contactEmail": "contact@ipsumlorem.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "6",
+      "title": "Software Engineer (Java)",
+      "type": "Full-Time",
+      "location": "Hyderabad, India",
+      "description": "We are looking for a passionate Software Engineer to join our team in Hyderabad. The ideal candidate should have strong experience in Java development and a solid understanding of object-oriented programming principles. You will be responsible for designing, developing, and maintaining Java applications while collaborating with cross-functional teams to define, design, and ship new features.",
+      "salary": "₹70,000 - ₹85,000",
+      "company": {
+        "name": "TechPioneers",
+        "description": "TechPioneers is an innovative software development company focused on creating transformative software solutions. We emphasize a culture of collaboration and continuous learning.",
+        "contactEmail": "hr@techpioneers.com",
+        "contactPhone": "555-555-5561"
+      }
+    },
+    {
+      "id": "7",
+      "title": "Data Analyst",
+      "type": "Full-Time",
+      "location": "Bangalore, India",
+      "description": "Join our team as a Data Analyst in Bangalore. You will be responsible for analyzing complex data sets, generating actionable insights, and presenting findings to stakeholders to guide business decisions. Proficiency in Excel and SQL is required, along with the ability to communicate effectively with both technical and non-technical audiences.",
+      "salary": "₹55,000 - ₹70,000",
+      "company": {
+        "name": "Insightful Analytics",
+        "description": "Insightful Analytics provides data-driven solutions for businesses, helping them optimize their operations and enhance their performance through detailed analysis and insights.",
+        "contactEmail": "careers@insightfulanalytics.com",
+        "contactPhone": "555-555-5562"
+      }
+    },
+    {
+      "id": "8",
+      "title": "Mobile App Developer (Flutter)",
+      "type": "Full-Time",
+      "location": "Gurgaon, India",
+      "description": "We are seeking a Mobile App Developer skilled in Flutter to join our dynamic team in Gurgaon. In this role, you will develop high-performance mobile applications for both iOS and Android platforms, working on exciting projects that require innovative app solutions. You should have experience in building apps that are intuitive and user-friendly.",
+      "salary": "₹75,000 - ₹90,000",
+      "company": {
+        "name": "NextGen Apps",
+        "description": "NextGen Apps is a leading mobile application development firm specializing in creating intuitive and user-friendly applications for diverse industries.",
+        "contactEmail": "jobs@nextgenapps.com",
+        "contactPhone": "555-555-5563"
+      }
+    },
+    {
+      "id": "9",
+      "title": "Product Manager",
+      "type": "Full-Time",
+      "location": "Pune, India",
+      "description": "We are looking for a skilled Product Manager to lead our product strategy and execution in Pune. The ideal candidate will have experience in agile methodologies and a strong understanding of market trends. You will be responsible for overseeing the product development lifecycle, from ideation to launch, ensuring that our products meet customer needs and business goals.",
+      "salary": "₹85,000 - ₹1,00,000",
+      "company": {
+        "name": "Productivity Boosters",
+        "description": "Productivity Boosters is a technology-driven company focused on enhancing organizational productivity through innovative software solutions.",
+        "contactEmail": "careers@productivityboosters.com",
+        "contactPhone": "555-555-5564"
+      }
+    },
+    {
+      "id": "10",
+      "title": "Cloud Solutions Architect",
+      "type": "Full-Time",
+      "location": "Chennai, India",
+      "description": "Join our team as a Cloud Solutions Architect in Chennai. You will design and implement cloud solutions for our clients, focusing on security, scalability, and efficiency. The ideal candidate will have experience with cloud platforms like AWS, Azure, or Google Cloud, and will work closely with clients to understand their needs and develop tailored solutions.",
+      "salary": "₹90,000 - ₹1,10,000",
+      "company": {
+        "name": "CloudX Solutions",
+        "description": "CloudX Solutions is a premier provider of cloud computing services, dedicated to helping businesses transition to the cloud while maximizing their IT investments.",
+        "contactEmail": "info@cloudxsolutions.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "11",
+      "title": "SEO Specialist",
+      "type": "Part-Time",
+      "location": "Ahmedabad, India",
+      "description": "We are looking for a Part-Time SEO Specialist to optimize our online content and improve our search engine rankings. You will conduct keyword research, analyze website performance using Google Analytics, and implement SEO strategies to increase organic traffic. Experience with content management systems (CMS) is preferred.",
+      "salary": "₹25,000 - ₹35,000",
+      "company": {
+        "name": "Digital Reach",
+        "description": "Digital Reach is a digital marketing agency focused on delivering measurable results through effective online strategies, including SEO, PPC, and content marketing.",
+        "contactEmail": "hr@digitalreach.com",
+        "contactPhone": "555-555-5566"
+      }
+    },
+    {
+      "id": "12",
+      "title": "DevOps Engineer",
+      "type": "Full-Time",
+      "location": "Noida, India",
+      "description": "We are seeking a skilled DevOps Engineer to enhance our software development processes in Noida, India. The ideal candidate will have experience with CI/CD pipelines, containerization technologies (like Docker and Kubernetes), and cloud services. You will collaborate with development and operations teams to automate workflows and improve system reliability.",
+      "salary": "₹80,000 - ₹95,000",
+      "company": {
+        "name": "Innovative Tech Solutions",
+        "description": "Innovative Tech Solutions focuses on providing comprehensive IT solutions to businesses, helping them optimize their operations through technology.",
+        "contactEmail": "info@innovativetech.com",
+        "contactPhone": "555-555-5567"
+      }
+    },
+    {
+      "id": "13",
+      "title": "UX/UI Designer",
+      "type": "Full-Time",
+      "location": "Bangalore, India",
+      "description": "Join our team as a UX/UI Designer in Bangalore. We are looking for a creative and detail-oriented designer to create intuitive user interfaces and enhance user experiences across our web and mobile applications. You should have a strong portfolio showcasing your design skills and a good understanding of user-centered design principles.",
+      "salary": "₹60,000 - ₹75,000",
+      "company": {
+        "name": "Creative Digital Agency",
+        "description": "Creative Digital Agency is dedicated to delivering cutting-edge design and development services, focusing on user experience and satisfaction.",
+        "contactEmail": "jobs@creativedigital.com",
+        "contactPhone": "555-555-5568"
+      }
+    },
+    {
+      "id": "14",
+      "title": "Network Administrator",
+      "type": "Full-Time",
+      "location": "Hyderabad, India",
+      "description": "We are looking for a knowledgeable Network Administrator to maintain and manage our IT infrastructure in Hyderabad. You will be responsible for configuring and troubleshooting network devices, monitoring network performance, and ensuring network security. Experience with firewalls, VPNs, and network protocols is required.",
+      "salary": "₹55,000 - ₹70,000",
+      "company": {
+        "name": "SecureNet Solutions",
+        "description": "SecureNet Solutions provides comprehensive network security solutions to businesses, ensuring their data and systems are protected from threats.",
+        "contactEmail": "hr@securenetsolutions.com",
+        "contactPhone": "555-555-5569"
+      }
+    },
+    {
+      "id": "15",
+      "title": "Business Analyst",
+      "type": "Full-Time",
+      "location": "Delhi, India",
+      "description": "We are seeking a Business Analyst to join our team in Delhi. You will analyze business processes, gather requirements, and work closely with stakeholders to develop effective solutions. Strong analytical skills and experience with data visualization tools like Tableau or Power BI are essential for this role.",
+      "salary": "₹65,000 - ₹80,000",
+      "company": {
+        "name": "Strategic Solutions",
+        "description": "Strategic Solutions provides expert consultancy services to businesses, focusing on process optimization and data-driven decision-making.",
+        "contactEmail": "careers@strategicsolutions.com",
+        "contactPhone": "555-555-5570"
+      }
+    }
+  ]
+}

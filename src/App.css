@@ -1,0 +1,20 @@
+/* app.css */
+body {
+  font-family: Arial, sans-serif;
+}
+
+/* Global styles */
+.container {
+  padding: 20px;
+}
+
+/* Responsive Design */
+@media (max-width: 640px) {
+  .container {
+      padding: 10px; /* Changes padding for mobile screens */
+  }
+
+  .text {
+      font-size: 14px; /* Adjust text size for mobile */
+  }
+}
